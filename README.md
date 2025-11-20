@@ -105,16 +105,4 @@ This prototype is designed with privacy and user comfort as core principles.
     ```
     The application will be available at `http://localhost:5173`.
 
-### Deployment
 
-This project is configured for easy deployment on **Vercel**.
-
-1.  Push your code to a public GitHub repository.
-2.  Sign up for a Vercel account and connect it to your GitHub.
-3.  Import the repository into Vercel.
-4.  Add your `API_KEY` as an environment variable in the Vercel project settings.
-5.  Click **Deploy**. Vercel will automatically use the `vercel.json` file to build and deploy the application.
-=======
-# NeuroBright
-NeuroAdaptive Learning Platform
->>>>>>> b9e13712782b272632ccb8c80eda372c7bc0cd46
