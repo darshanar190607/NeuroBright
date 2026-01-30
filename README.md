@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-# Neuroadaptive EdTech: A NALLAS HACKATHON Submission
+# Neuroadaptive EdTech: NIT Ideathon 2026 Submission
 
 **Live Demo:** [Link to your Vercel deployment]
 
